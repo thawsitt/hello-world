@@ -1,2 +1,2 @@
 # hello-world
-Everyone gotta start somewhere.
+Hey! Everyone gotta start somewhere.
